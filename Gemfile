@@ -54,3 +54,4 @@ gem 'quiet_assets', group: 'development'
 
 gem 'oj'
 gem 'pry', group: 'development'
+gem 'sidekiq'
